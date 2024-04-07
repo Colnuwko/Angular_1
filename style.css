@@ -1,0 +1,20 @@
+
+body {
+    text-align: center;
+    height: 90%;
+    width: 100%;
+    margin: 10px;
+
+}   
+
+button {
+    margin: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 20px;
+}
+
+button:hover {
+    background-color:#002ead;
+    transition: 0.7s;
+}
